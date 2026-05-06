@@ -1,0 +1,3497 @@
+[
+  {
+    "{": "\"bank_name\": \"General Banking Certification\","
+  },
+  {
+    "{": "\"module\": \"Memproses Pembukaan & Penutupan Rekening\","
+  },
+  {
+    "{": "\"language\": \"id\","
+  },
+  {
+    "{": "\"difficulty\": \"hard\","
+  },
+  {
+    "{": "\"source_material\": \"Memproses Pembukaan & Penutupan Rekening\","
+  },
+  {
+    "{": "\"total_questions\": 70,"
+  },
+  {
+    "{": "\"sections\": {"
+  },
+  {
+    "{": "\"multiple_choice\": 50,"
+  },
+  {
+    "{": "\"case_study\": 20"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"question_bank\": ["
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 1,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"KYC\","
+  },
+  {
+    "{": "\"question\": \"Tujuan utama penerapan KYC pada saat pembukaan rekening adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Memastikan nasabah memperoleh bunga kompetitif\","
+  },
+  {
+    "{": "\"B\": \"Memastikan bank memahami identitas, profil, dan aktivitas nasabah sebelum hubungan usaha berjalan\","
+  },
+  {
+    "{": "\"C\": \"Memastikan seluruh nasabah menggunakan mobile banking\","
+  },
+  {
+    "{": "\"D\": \"Memastikan proses pembukaan rekening selesai kurang dari 15 menit\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"KYC memastikan bank memahami identitas, profil, dan aktivitas nasabah sebelum hubungan usaha dimulai.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 2,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"CIF\","
+  },
+  {
+    "{": "\"question\": \"Pernyataan yang PALING tepat mengenai CIF adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Satu rekening dapat memiliki beberapa CIF berbeda untuk keamanan\","
+  },
+  {
+    "{": "\"B\": \"CIF hanya digunakan untuk produk kredit\","
+  },
+  {
+    "{": "\"C\": \"Satu CIF mewakili satu nasabah meskipun memiliki banyak produk\","
+  },
+  {
+    "{": "\"D\": \"CIF merupakan nomor transaksi harian nasabah\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Satu CIF mewakili satu nasabah dan dapat terhubung ke banyak produk.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 3,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Produk Simpanan\","
+  },
+  {
+    "{": "\"question\": \"Yang termasuk rekening dana tetapi TIDAK dapat ditarik menggunakan cek atau bilyet giro adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Giro\","
+  },
+  {
+    "{": "\"B\": \"Deposito\","
+  },
+  {
+    "{": "\"C\": \"Kredit\","
+  },
+  {
+    "{": "\"D\": \"Tabungan\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"D\","
+  },
+  {
+    "{": "\"explanation\": \"Tabungan tidak menggunakan cek maupun bilyet giro.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 4,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Giro\","
+  },
+  {
+    "{": "\"question\": \"Nasabah datang membuka rekening giro perorangan valas. Dokumen yang PALING relevan untuk diverifikasi pertama kali adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Bukti pembayaran listrik\","
+  },
+  {
+    "{": "\"B\": \"KTP/Paspor + KITAS/KIMS\","
+  },
+  {
+    "{": "\"C\": \"Slip transaksi e-wallet\","
+  },
+  {
+    "{": "\"D\": \"Surat rekomendasi RT\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Pembukaan giro valas membutuhkan identitas resmi dan dokumen keimigrasian.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 5,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Pembukaan Tabungan\","
+  },
+  {
+    "{": "\"question\": \"Dalam flow pembukaan tabungan, proses validasi dan input CIF dilakukan oleh...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Teller\","
+  },
+  {
+    "{": "\"B\": \"Security\","
+  },
+  {
+    "{": "\"C\": \"Customer Service\","
+  },
+  {
+    "{": "\"D\": \"Auditor internal\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Customer Service melakukan validasi dan input CIF.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 6,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Rekening Kredit\","
+  },
+  {
+    "{": "\"question\": \"Pernyataan berikut yang menunjukkan karakteristik rekening kredit adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Dapat digunakan bebas untuk seluruh transaksi sehari-hari\","
+  },
+  {
+    "{": "\"B\": \"Fokus utama pada penghimpunan DPK\","
+  },
+  {
+    "{": "\"C\": \"Pembukaan dilakukan tanpa analisis profil risiko\","
+  },
+  {
+    "{": "\"D\": \"Pemanfaatan rekening terutama terkait transaksi pinjaman\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"D\","
+  },
+  {
+    "{": "\"explanation\": \"Rekening kredit digunakan untuk transaksi terkait pinjaman.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 7,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"CIF\","
+  },
+  {
+    "{": "\"question\": \"Salah satu manfaat CIF bagi bank adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menghilangkan kebutuhan verifikasi nasabah\","
+  },
+  {
+    "{": "\"B\": \"Menjadi dasar integrasi core banking dan CRM\","
+  },
+  {
+    "{": "\"C\": \"Mengurangi seluruh risiko kredit menjadi nol\","
+  },
+  {
+    "{": "\"D\": \"Menghapus kewajiban pelaporan regulator\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"CIF mendukung integrasi antar sistem bank.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 8,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"KYC\","
+  },
+  {
+    "{": "\"question\": \"Yang termasuk informasi minimum dalam kerangka KYC adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Preferensi warna kartu ATM\","
+  },
+  {
+    "{": "\"B\": \"Hobi nasabah\","
+  },
+  {
+    "{": "\"C\": \"Sumber dana\","
+  },
+  {
+    "{": "\"D\": \"Jenis smartphone nasabah\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Sumber dana termasuk informasi minimum wajib dalam KYC.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 9,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Tahapan KYC\","
+  },
+  {
+    "{": "\"question\": \"Dalam tahapan inti KYC, aktivitas memastikan dokumen dan data benar disebut...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Monitoring\","
+  },
+  {
+    "{": "\"B\": \"Screening\","
+  },
+  {
+    "{": "\"C\": \"Identifikasi\","
+  },
+  {
+    "{": "\"D\": \"Verifikasi\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"D\","
+  },
+  {
+    "{": "\"explanation\": \"Verifikasi memastikan keabsahan dokumen dan data.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 10,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"AML\","
+  },
+  {
+    "{": "\"question\": \"Nasabah mahasiswa membuka rekening dengan setoran awal sangat besar namun tidak dapat menjelaskan sumber dana. Kondisi ini termasuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Enhanced service\","
+  },
+  {
+    "{": "\"B\": \"Red flag money laundering\","
+  },
+  {
+    "{": "\"C\": \"Normal onboarding\","
+  },
+  {
+    "{": "\"D\": \"Treasury activity\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Ketidaksesuaian profil dan transaksi merupakan red flag AML.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "],"
+  },
+  {
+    "{": "\"question_bank_continued\": ["
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 11,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Rekening\","
+  },
+  {
+    "{": "\"question\": \"Tujuan utama nomor rekening dalam sistem perbankan adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menentukan suku bunga nasabah\","
+  },
+  {
+    "{": "\"B\": \"Menjadi alat pengenal dan pengelola transaksi\","
+  },
+  {
+    "{": "\"C\": \"Menentukan ranking nasabah prioritas\","
+  },
+  {
+    "{": "\"D\": \"Menggantikan CIF\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Nomor rekening digunakan sebagai identitas dan alat pengelolaan transaksi.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 12,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Deposito\","
+  },
+  {
+    "{": "\"question\": \"Deposito berbeda dengan tabungan karena...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Deposito dapat ditarik sewaktu-waktu tanpa syarat\","
+  },
+  {
+    "{": "\"B\": \"Deposito menggunakan cek dan bilyet giro\","
+  },
+  {
+    "{": "\"C\": \"Deposito memiliki jangka waktu tertentu sesuai perjanjian\","
+  },
+  {
+    "{": "\"D\": \"Deposito tidak termasuk DPK\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Deposito hanya dapat dicairkan sesuai tenor atau perjanjian.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 13,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Giro\","
+  },
+  {
+    "{": "\"question\": \"Dalam pembukaan rekening giro, registrasi specimen dilakukan setelah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Nasabah memperoleh PIN mobile banking\","
+  },
+  {
+    "{": "\"B\": \"Teller mencetak validasi transaksi\","
+  },
+  {
+    "{": "\"C\": \"CIF dihapus dari sistem\","
+  },
+  {
+    "{": "\"D\": \"Rekening ditutup sementara\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Specimen dilakukan setelah validasi transaksi dan setoran awal.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 14,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Data CIF\","
+  },
+  {
+    "{": "\"question\": \"Yang termasuk data pekerjaan dan penghasilan pada CIF adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Status pajak\","
+  },
+  {
+    "{": "\"B\": \"Nama tempat kerja\","
+  },
+  {
+    "{": "\"C\": \"Nomor kartu ATM\","
+  },
+  {
+    "{": "\"D\": \"PIN transaksi\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Nama tempat kerja termasuk data pekerjaan pada CIF.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 15,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Beneficial Owner\","
+  },
+  {
+    "{": "\"question\": \"Bank meminta identitas beneficial owner terutama pada nasabah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Mahasiswa\","
+  },
+  {
+    "{": "\"B\": \"Pensiunan\","
+  },
+  {
+    "{": "\"C\": \"Perusahaan atau badan usaha\","
+  },
+  {
+    "{": "\"D\": \"Nasabah payroll individu\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Beneficial owner diperlukan untuk badan usaha/perusahaan.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 16,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Prinsip Kehati-hatian\","
+  },
+  {
+    "{": "\"question\": \"Manakah berikut yang PALING mencerminkan prinsip kehati-hatian?\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Memproses rekening tanpa dokumen lengkap agar target tercapai\","
+  },
+  {
+    "{": "\"B\": \"Mengutamakan kecepatan dibanding validasi\","
+  },
+  {
+    "{": "\"C\": \"Memastikan data dan dokumen konsisten sebelum rekening aktif\","
+  },
+  {
+    "{": "\"D\": \"Menghindari wawancara agar nasabah nyaman\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Prinsip kehati-hatian menekankan validitas dan konsistensi data.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 17,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Nasabah WNA\","
+  },
+  {
+    "{": "\"question\": \"Nasabah WNA yang tidak menetap di Indonesia dapat diminta dokumen tambahan berupa...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tiket konser\","
+  },
+  {
+    "{": "\"B\": \"Referensi atau dokumen pendukung profil\","
+  },
+  {
+    "{": "\"C\": \"Foto keluarga\","
+  },
+  {
+    "{": "\"D\": \"Bukti langganan streaming\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Bank dapat meminta referensi tambahan untuk memperkuat profil WNA.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 18,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Red Flags\","
+  },
+  {
+    "{": "\"question\": \"Rekening tidur mendadak aktif untuk nominal besar merupakan contoh...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Aktivitas treasury normal\","
+  },
+  {
+    "{": "\"B\": \"Cross selling opportunity\","
+  },
+  {
+    "{": "\"C\": \"Suspicious transaction red flag\","
+  },
+  {
+    "{": "\"D\": \"Rekonsiliasi rutin\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Rekening dormant aktif mendadak merupakan red flag transaksi mencurigakan.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 19,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Manfaat Rekening\","
+  },
+  {
+    "{": "\"question\": \"Berikut ini yang merupakan manfaat rekening bagi nasabah adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menghapus seluruh biaya transaksi\","
+  },
+  {
+    "{": "\"B\": \"Menjadi dasar aktivasi layanan lain seperti payroll dan autodebit\","
+  },
+  {
+    "{": "\"C\": \"Menghilangkan kewajiban pajak\","
+  },
+  {
+    "{": "\"D\": \"Menjamin approval kredit\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Rekening dapat digunakan untuk payroll, autodebit, dan layanan lainnya.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 20,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Kredit\","
+  },
+  {
+    "{": "\"question\": \"Tahapan setelah analisis kredit pada prosedur umum pembukaan rekening kredit adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Rekonsiliasi kas\","
+  },
+  {
+    "{": "\"B\": \"Persetujuan\","
+  },
+  {
+    "{": "\"C\": \"Penghapusan CIF\","
+  },
+  {
+    "{": "\"D\": \"Penutupan rekening\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Setelah analisis kredit dilakukan proses persetujuan.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 21,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Kredit Investasi\","
+  },
+  {
+    "{": "\"question\": \"Yang termasuk dokumen utama kredit investasi tetapi tidak secara eksplisit disebut pada KMK adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Proposal investasi dan proyeksi arus kas\","
+  },
+  {
+    "{": "\"B\": \"NPWP\","
+  },
+  {
+    "{": "\"C\": \"Mutasi rekening\","
+  },
+  {
+    "{": "\"D\": \"Dokumen agunan\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Kredit investasi memerlukan proposal investasi dan proyeksi arus kas.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 22,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"CIF\","
+  },
+  {
+    "{": "\"question\": \"Dalam pengisian CIF, perubahan nomor HP nasabah sebaiknya...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Dibiarkan hingga audit tahunan\","
+  },
+  {
+    "{": "\"B\": \"Diupdate langsung ke sistem\","
+  },
+  {
+    "{": "\"C\": \"Dicatat manual tanpa sistem\","
+  },
+  {
+    "{": "\"D\": \"Menunggu approval regulator\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Perubahan data penting harus segera diperbarui dalam sistem CIF.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 23,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"AML\","
+  },
+  {
+    "{": "\"question\": \"Transaksi yang dipecah menjadi nominal kecil untuk menghindari threshold pelaporan disebut sebagai...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Structuring/smurfing indicator\","
+  },
+  {
+    "{": "\"B\": \"Cash pooling\","
+  },
+  {
+    "{": "\"C\": \"Interest capitalization\","
+  },
+  {
+    "{": "\"D\": \"Treasury balancing\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Pemecahan transaksi untuk menghindari pelaporan disebut structuring atau smurfing.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 24,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Deposito\","
+  },
+  {
+    "{": "\"question\": \"Dalam pembukaan deposito, bukti penempatan dana yang diterbitkan bank adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Advice transfer\","
+  },
+  {
+    "{": "\"B\": \"Bilyet deposito\","
+  },
+  {
+    "{": "\"C\": \"Cek silang\","
+  },
+  {
+    "{": "\"D\": \"Kartu specimen\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Bilyet deposito menjadi bukti penempatan deposito nasabah.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 25,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"KYC\","
+  },
+  {
+    "{": "\"question\": \"KYC membantu bank memahami profil transaksi nasabah terutama pada tahap...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Pemantauan\","
+  },
+  {
+    "{": "\"B\": \"Penutupan rekening\","
+  },
+  {
+    "{": "\"C\": \"Pencetakan kartu ATM\","
+  },
+  {
+    "{": "\"D\": \"Rebranding produk\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Tahap pemantauan digunakan untuk memahami profil transaksi nasabah.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 26,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"KYC\","
+  },
+  {
+    "{": "\"question\": \"Nasabah menolak memberikan informasi tambahan dan meminta proses dipercepat secara tidak wajar. Sikap CS yang PALING tepat adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap memproses tanpa verifikasi agar nasabah tidak komplain\","
+  },
+  {
+    "{": "\"B\": \"Menghentikan seluruh layanan permanen tanpa analisis\","
+  },
+  {
+    "{": "\"C\": \"Melanjutkan prosedur KYC secara cermat sesuai ketentuan\","
+  },
+  {
+    "{": "\"D\": \"Meminta teller mengambil keputusan sendiri\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"CS tetap wajib menjalankan prosedur KYC sesuai ketentuan.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 27,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"CIF\","
+  },
+  {
+    "{": "\"question\": \"Fungsi CIF terhadap credit scoring adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menghapus analisis kredit manual\","
+  },
+  {
+    "{": "\"B\": \"Mendukung integrasi data dalam proses penilaian\","
+  },
+  {
+    "{": "\"C\": \"Menggantikan seluruh dokumen kredit\","
+  },
+  {
+    "{": "\"D\": \"Menentukan bunga deposito otomatis\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"CIF mendukung integrasi data untuk proses credit scoring.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 28,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Giro\","
+  },
+  {
+    "{": "\"question\": \"Produk simpanan yang mendukung cek, bilyet giro, dan pemindahbukuan adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tabungan\","
+  },
+  {
+    "{": "\"B\": \"Giro\","
+  },
+  {
+    "{": "\"C\": \"Deposito\","
+  },
+  {
+    "{": "\"D\": \"Kredit konsumtif\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Giro mendukung cek, bilyet giro, dan pemindahbukuan.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 29,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Nasabah Perusahaan\","
+  },
+  {
+    "{": "\"question\": \"Dokumen legalitas utama yang wajib diperhatikan pada nasabah perusahaan adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Boarding pass direktur\","
+  },
+  {
+    "{": "\"B\": \"Akta pendirian dan anggaran dasar\","
+  },
+  {
+    "{": "\"C\": \"Screenshot media sosial\","
+  },
+  {
+    "{": "\"D\": \"Invoice pribadi staf\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Akta pendirian dan anggaran dasar merupakan legalitas utama perusahaan.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 30,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Rekening Kredit\","
+  },
+  {
+    "{": "\"question\": \"Mengapa rekening kredit memerlukan proses lebih lama dibanding rekening simpanan?\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Karena teller harus mencetak lebih banyak slip\","
+  },
+  {
+    "{": "\"B\": \"Karena wajib melalui analisis kelayakan dan profil risiko\","
+  },
+  {
+    "{": "\"C\": \"Karena seluruh kredit harus disetujui regulator\","
+  },
+  {
+    "{": "\"D\": \"Karena CIF dibuat dua kali\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Rekening kredit memerlukan analisis kelayakan dan profil risiko.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 31,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Tabungan Non-Perorangan\","
+  },
+  {
+    "{": "\"question\": \"Dalam pembukaan tabungan non-perorangan, identitas pengurus diperlukan untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menghindari biaya administrasi\","
+  },
+  {
+    "{": "\"B\": \"Menentukan warna buku tabungan\","
+  },
+  {
+    "{": "\"C\": \"Memastikan pihak yang mewakili badan usaha berwenang\","
+  },
+  {
+    "{": "\"D\": \"Menghapus kebutuhan CIF\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Identitas pengurus diperlukan untuk memastikan kewenangan perwakilan perusahaan.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 32,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"KYC\","
+  },
+  {
+    "{": "\"question\": \"Yang BUKAN manfaat KYC adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menilai risiko AML\","
+  },
+  {
+    "{": "\"B\": \"Memahami aktivitas keuangan\","
+  },
+  {
+    "{": "\"C\": \"Menghilangkan kebutuhan monitoring transaksi\","
+  },
+  {
+    "{": "\"D\": \"Melindungi nasabah dari aktivitas ilegal\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"KYC tetap memerlukan monitoring transaksi.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 33,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Giro\","
+  },
+  {
+    "{": "\"question\": \"Dalam proses pembukaan giro, approval pembukaan rekening dilakukan oleh...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Security\","
+  },
+  {
+    "{": "\"B\": \"Pimpinan\","
+  },
+  {
+    "{": "\"C\": \"Driver operasional\","
+  },
+  {
+    "{": "\"D\": \"Nasabah sendiri\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Pimpinan melakukan approval pembukaan rekening giro.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 34,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Verifikasi Data\","
+  },
+  {
+    "{": "\"question\": \"Jika terdapat perbedaan nama antara KTP dan formulir aplikasi, tindakan yang PALING tepat adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Mengabaikan karena perbedaan kecil\","
+  },
+  {
+    "{": "\"B\": \"Tetap menginput sesuai ucapan nasabah\","
+  },
+  {
+    "{": "\"C\": \"Melakukan klarifikasi dan verifikasi ulang dokumen\","
+  },
+  {
+    "{": "\"D\": \"Menunggu transaksi pertama terjadi\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Perbedaan data harus diklarifikasi dan diverifikasi ulang.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 35,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Red Flags\","
+  },
+  {
+    "{": "\"question\": \"Salah satu indikator transaksi mencurigakan adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Penggunaan rekening untuk payroll rutin\","
+  },
+  {
+    "{": "\"B\": \"Transfer internasional ke negara berisiko tanpa alasan logis\","
+  },
+  {
+    "{": "\"C\": \"Setoran awal sesuai profil nasabah\","
+  },
+  {
+    "{": "\"D\": \"Pembayaran tagihan listrik bulanan\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Transfer ke negara berisiko tanpa alasan logis merupakan red flag AML.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 36,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Deposito\","
+  },
+  {
+    "{": "\"question\": \"Dalam pembukaan deposito via internet banking BRI, nominal pembukaan mengikuti ketentuan...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Rp100 ribu – Rp1 juta\","
+  },
+  {
+    "{": "\"B\": \"Rp1 juta – Rp3 juta\","
+  },
+  {
+    "{": "\"C\": \"Rp5 juta – Rp100 juta\","
+  },
+  {
+    "{": "\"D\": \"Tidak ada batasan nominal\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Pembukaan deposito via internet banking memiliki batas nominal tertentu.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 37,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"CIF\","
+  },
+  {
+    "{": "\"question\": \"Salah satu alasan CIF disebut fondasi identitas nasabah adalah karena...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"CIF hanya dimiliki nasabah prioritas\","
+  },
+  {
+    "{": "\"B\": \"Seluruh layanan bank terhubung melalui CIF\","
+  },
+  {
+    "{": "\"C\": \"CIF digunakan hanya untuk cetak kartu ATM\","
+  },
+  {
+    "{": "\"D\": \"CIF menggantikan seluruh dokumen legal\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"CIF menjadi penghubung utama seluruh layanan dan produk nasabah.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 38,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Penutupan Rekening\","
+  },
+  {
+    "{": "\"question\": \"Dalam penutupan rekening tabungan, proses penutupan wajib dilakukan di...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Cabang mana saja tanpa pengecualian\","
+  },
+  {
+    "{": "\"B\": \"Kantor pusat regulator\","
+  },
+  {
+    "{": "\"C\": \"Cabang pengelola rekening\","
+  },
+  {
+    "{": "\"D\": \"Merchant EDC terdekat\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Penutupan rekening dilakukan melalui cabang pengelola rekening.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 39,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"KYC Perorangan\","
+  },
+  {
+    "{": "\"question\": \"Yang termasuk dokumen tambahan nasabah perorangan dalam KYC adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Kartu Keluarga\","
+  },
+  {
+    "{": "\"B\": \"Boarding pass\","
+  },
+  {
+    "{": "\"C\": \"Invoice supplier\","
+  },
+  {
+    "{": "\"D\": \"Purchase order\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Kartu Keluarga termasuk dokumen tambahan KYC perorangan.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 40,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Deposito\","
+  },
+  {
+    "{": "\"question\": \"Dalam flow pembukaan deposito, tahap yang dilakukan sebelum penerbitan bilyet adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Penghapusan CIF\","
+  },
+  {
+    "{": "\"B\": \"Setoran dana\","
+  },
+  {
+    "{": "\"C\": \"Penutupan rekening induk\","
+  },
+  {
+    "{": "\"D\": \"Pengajuan kartu kredit\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Setelah setoran dana dilakukan, bank menerbitkan bilyet deposito.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 41,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"AML\","
+  },
+  {
+    "{": "\"question\": \"Nasabah menggunakan banyak rekening untuk menyamarkan aliran dana. Kondisi ini mengindikasikan...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Aktivitas dormant normal\","
+  },
+  {
+    "{": "\"B\": \"Red flag pencucian uang\","
+  },
+  {
+    "{": "\"C\": \"Rekonsiliasi lintas cabang\","
+  },
+  {
+    "{": "\"D\": \"Integrasi CRM\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Penggunaan banyak rekening untuk menyamarkan aliran dana merupakan indikasi AML.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 42,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"KYC\","
+  },
+  {
+    "{": "\"question\": \"Tujuan bank meminta informasi tujuan hubungan usaha adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menentukan desain kartu ATM\","
+  },
+  {
+    "{": "\"B\": \"Memahami ekspektasi keuntungan nasabah\","
+  },
+  {
+    "{": "\"C\": \"Memahami profil dan pola transaksi yang wajar\","
+  },
+  {
+    "{": "\"D\": \"Menghapus kebutuhan monitoring\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Tujuan hubungan usaha membantu bank memahami pola transaksi wajar.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 43,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Penutupan Rekening\","
+  },
+  {
+    "{": "\"question\": \"Dalam penutupan rekening non-perorangan, surat permohonan dapat diajukan oleh...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Siapa saja yang membawa stempel perusahaan\","
+  },
+  {
+    "{": "\"B\": \"Kuasa yang disetujui pemilik rekening\","
+  },
+  {
+    "{": "\"C\": \"Teller cabang lain\","
+  },
+  {
+    "{": "\"D\": \"Vendor perusahaan\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Penutupan rekening non-perorangan memerlukan kuasa resmi.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 44,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Dokumen Identitas\","
+  },
+  {
+    "{": "\"question\": \"Bank wajib memastikan dokumen identitas nasabah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Berwarna cerah\","
+  },
+  {
+    "{": "\"B\": \"Masih berlaku dan diterbitkan pihak berwenang\","
+  },
+  {
+    "{": "\"C\": \"Difotokopi lebih dari lima kali\","
+  },
+  {
+    "{": "\"D\": \"Menggunakan alamat kantor cabang\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Dokumen identitas harus valid dan diterbitkan pihak berwenang.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 45,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"CIF dan Rekening\","
+  },
+  {
+    "{": "\"question\": \"Yang PALING tepat menggambarkan hubungan CIF dan rekening adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Satu rekening wajib memiliki CIF berbeda\","
+  },
+  {
+    "{": "\"B\": \"CIF dan rekening merupakan entitas yang sama\","
+  },
+  {
+    "{": "\"C\": \"CIF menjadi identitas utama yang menghubungkan berbagai rekening nasabah\","
+  },
+  {
+    "{": "\"D\": \"Rekening digunakan untuk membuat CIF regulator\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"CIF menghubungkan seluruh rekening dan produk milik nasabah.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 46,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Analisis Kredit\","
+  },
+  {
+    "{": "\"question\": \"Dalam proses pembukaan kredit, analisis kemampuan bayar dilakukan terutama untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Mempercepat cetak kartu ATM\","
+  },
+  {
+    "{": "\"B\": \"Menilai kelayakan pemberian fasilitas kredit\","
+  },
+  {
+    "{": "\"C\": \"Menentukan biaya administrasi tabungan\","
+  },
+  {
+    "{": "\"D\": \"Mengurangi kebutuhan dokumen legal\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Analisis kemampuan bayar bertujuan menilai kelayakan kredit.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 47,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Monitoring\","
+  },
+  {
+    "{": "\"question\": \"Jika dana masuk pada rekening jauh melebihi profil penghasilan nasabah, maka bank seharusnya...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menganggap sebagai nasabah prioritas otomatis\","
+  },
+  {
+    "{": "\"B\": \"Mengabaikan karena transaksi sudah masuk\","
+  },
+  {
+    "{": "\"C\": \"Meningkatkan kewaspadaan dan melakukan monitoring\","
+  },
+  {
+    "{": "\"D\": \"Menutup rekening tanpa prosedur\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Ketidaksesuaian profil dan transaksi perlu dimonitor lebih lanjut.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 48,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Rekening Kredit\","
+  },
+  {
+    "{": "\"question\": \"Pernyataan yang PALING benar mengenai rekening kredit adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Selalu dapat dibuka instan tanpa dokumen\","
+  },
+  {
+    "{": "\"B\": \"Digunakan untuk menampung pencairan pinjaman dan pembayaran kembali\","
+  },
+  {
+    "{": "\"C\": \"Tidak memerlukan KYC\","
+  },
+  {
+    "{": "\"D\": \"Merupakan bagian dari produk treasury\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Rekening kredit digunakan untuk transaksi pinjaman.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 49,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Administrasi\","
+  },
+  {
+    "{": "\"question\": \"Dalam administrasi penutupan rekening, pengarsipan dokumen penting dilakukan untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Mengurangi kebutuhan audit\","
+  },
+  {
+    "{": "\"B\": \"Kepentingan dokumentasi, monitoring, dan kepatuhan\","
+  },
+  {
+    "{": "\"C\": \"Menghindari input ke sistem\","
+  },
+  {
+    "{": "\"D\": \"Menghapus histori transaksi nasabah\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Pengarsipan diperlukan untuk dokumentasi dan kepatuhan audit.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 50,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Pembukaan Rekening\","
+  },
+  {
+    "{": "\"question\": \"Nasabah meminta pembukaan rekening diproses tanpa NPWP maupun surat keterangan tidak memiliki NPWP. Tindakan yang paling sesuai adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap membuka rekening agar target tercapai\","
+  },
+  {
+    "{": "\"B\": \"Meminta teller override sistem\","
+  },
+  {
+    "{": "\"C\": \"Meminta nasabah melengkapi persyaratan sesuai ketentuan\","
+  },
+  {
+    "{": "\"D\": \"Membuka rekening sementara tanpa CIF\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Nasabah wajib melengkapi persyaratan dokumen sesuai ketentuan."
+  },
+  {
+    "{": "\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 51,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"AML dan KYC\","
+  },
+  {
+    "{": "\"question\": \"Seorang nasabah ingin membuka rekening tabungan dengan setoran awal Rp500 juta. Ia mengaku mahasiswa dan tidak dapat menjelaskan sumber dana secara jelas.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Langsung membuka rekening karena dana besar menguntungkan bank\","
+  },
+  {
+    "{": "\"B\": \"Menunda proses dan melakukan pendalaman KYC serta sumber dana\","
+  },
+  {
+    "{": "\"C\": \"Menyarankan split transaksi ke beberapa rekening\","
+  },
+  {
+    "{": "\"D\": \"Mengabaikan profil karena identitas lengkap\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Profil dan sumber dana tidak sesuai sehingga perlu enhanced due diligence.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": ["
+  },
+  {
+    "{": "\"KYC\","
+  },
+  {
+    "{": "\"AML\","
+  },
+  {
+    "{": "\"sumber dana\","
+  },
+  {
+    "{": "\"red flag\","
+  },
+  {
+    "{": "\"verifikasi\""
+  },
+  {
+    "{": "],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menyebut red flag AML, ketidaksesuaian profil, dan perlunya verifikasi mendalam.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut perlunya verifikasi namun belum lengkap.\","
+  },
+  {
+    "{": "\"2\": \"Alasan sebagian benar tetapi tidak membahas risiko.\","
+  },
+  {
+    "{": "\"1\": \"Alasan terlalu umum.\","
+  },
+  {
+    "{": "\"0\": \"Alasan salah atau tidak relevan.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 52,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Legalitas Perusahaan\","
+  },
+  {
+    "{": "\"question\": \"Nasabah perusahaan ingin membuka giro, tetapi akta perubahan terakhir belum tersedia.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap proses karena akta awal sudah cukup\","
+  },
+  {
+    "{": "\"B\": \"Meminta dokumen legal terbaru sebelum proses dilanjutkan\","
+  },
+  {
+    "{": "\"C\": \"Membuka rekening sementara tanpa CIF\","
+  },
+  {
+    "{": "\"D\": \"Meminta teller mengambil keputusan\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Legalitas terbaru wajib diverifikasi sebelum pembukaan rekening perusahaan.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": ["
+  },
+  {
+    "{": "\"legalitas\","
+  },
+  {
+    "{": "\"akta\","
+  },
+  {
+    "{": "\"verifikasi\","
+  },
+  {
+    "{": "\"kepatuhan\""
+  },
+  {
+    "{": "]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 53,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"KYC\","
+  },
+  {
+    "{": "\"question\": \"Nasabah meminta proses pembukaan rekening dipercepat dan menolak diwawancarai lebih lanjut.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menghentikan seluruh layanan permanen\","
+  },
+  {
+    "{": "\"B\": \"Tetap mengikuti prosedur KYC secara ketat\","
+  },
+  {
+    "{": "\"C\": \"Menghapus kebutuhan verifikasi\","
+  },
+  {
+    "{": "\"D\": \"Langsung approval demi service excellence\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Prosedur KYC tetap wajib dilakukan meskipun nasabah keberatan.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"KYC\", \"verifikasi\", \"kehati-hatian\", \"suspicious\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 54,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Red Flags\","
+  },
+  {
+    "{": "\"question\": \"Rekening dormant tiba-tiba menerima transfer internasional bernilai besar lalu seluruh dana segera dipindahkan.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Aktivitas normal high-net-worth customer\","
+  },
+  {
+    "{": "\"B\": \"Indikasi suspicious transaction yang perlu monitoring\","
+  },
+  {
+    "{": "\"C\": \"Tidak perlu diperhatikan selama saldo cukup\","
+  },
+  {
+    "{": "\"D\": \"Bukti rekening aktif kembali secara sehat\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Pola transaksi tersebut merupakan red flag AML.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"monitoring\", \"AML\", \"suspicious transaction\", \"red flag\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 55,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"CIF\","
+  },
+  {
+    "{": "\"question\": \"CS menemukan perbedaan tanggal lahir antara CIF dan KTP nasabah.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menggunakan data CIF lama tanpa konfirmasi\","
+  },
+  {
+    "{": "\"B\": \"Melakukan klarifikasi dan update setelah verifikasi\","
+  },
+  {
+    "{": "\"C\": \"Menghapus CIF nasabah\","
+  },
+  {
+    "{": "\"D\": \"Meminta nasabah membuat rekening baru\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Data CIF harus akurat dan diperbarui setelah verifikasi.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"CIF\", \"validasi\", \"update data\", \"akurasi\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 56,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Penutupan Rekening\","
+  },
+  {
+    "{": "\"question\": \"Nasabah non-perorangan ingin menutup rekening melalui staf biasa tanpa surat kuasa.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Langsung diproses karena membawa stempel perusahaan\","
+  },
+  {
+    "{": "\"B\": \"Ditolak sampai ada kuasa resmi dan dokumen pendukung\","
+  },
+  {
+    "{": "\"C\": \"Diproses sebagian tanpa verifikasi\","
+  },
+  {
+    "{": "\"D\": \"Menunggu teller kosong\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Penutupan rekening non-perorangan memerlukan kuasa resmi.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"surat kuasa\", \"otorisasi\", \"dokumen\", \"kepatuhan\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 57,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Deposito\","
+  },
+  {
+    "{": "\"question\": \"Nasabah ingin membuka deposito tetapi belum memiliki rekening tabungan/giro di bank.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Deposito tetap dapat dibuka tanpa rekening induk\","
+  },
+  {
+    "{": "\"B\": \"Nasabah perlu memenuhi syarat rekening pendukung sesuai ketentuan\","
+  },
+  {
+    "{": "\"C\": \"Deposito diganti menjadi giro otomatis\","
+  },
+  {
+    "{": "\"D\": \"Teller dapat override syarat\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Pembukaan deposito memerlukan rekening pendukung sesuai ketentuan bank.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"rekening pendukung\", \"ketentuan\", \"deposito\", \"kepatuhan\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 58,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Analisis Kredit\","
+  },
+  {
+    "{": "\"question\": \"Dalam proses kredit, hasil analisis menunjukkan kemampuan bayar nasabah tidak memadai.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Kredit tetap disetujui agar target tercapai\","
+  },
+  {
+    "{": "\"B\": \"Permohonan dapat ditolak berdasarkan hasil analisis risiko\","
+  },
+  {
+    "{": "\"C\": \"CIF langsung dihapus\","
+  },
+  {
+    "{": "\"D\": \"Rekening tabungan otomatis diblokir\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Analisis kemampuan bayar menentukan kelayakan pemberian kredit.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"kemampuan bayar\", \"analisis risiko\", \"kelayakan kredit\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 59,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Beneficial Owner\","
+  },
+  {
+    "{": "\"question\": \"Nasabah perusahaan menggunakan nominee untuk mewakili beneficial owner sebenarnya.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Diperbolehkan tanpa klarifikasi\","
+  },
+  {
+    "{": "\"B\": \"Perlu identifikasi beneficial owner sesuai prinsip KYC\","
+  },
+  {
+    "{": "\"C\": \"Tidak perlu dicatat dalam CIF\","
+  },
+  {
+    "{": "\"D\": \"Cukup dicatat nama nominee saja\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Bank wajib mengidentifikasi beneficial owner sebenarnya.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"beneficial owner\", \"KYC\", \"AML\", \"identifikasi\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 60,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Penutupan Rekening\","
+  },
+  {
+    "{": "\"question\": \"Nasabah meminta rekening ditutup di cabang lain yang bukan cabang pengelola.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Langsung diproses penuh tanpa koordinasi\","
+  },
+  {
+    "{": "\"B\": \"Permohonan diteruskan ke cabang pengelola sesuai prosedur\","
+  },
+  {
+    "{": "\"C\": \"Ditolak permanen\","
+  },
+  {
+    "{": "\"D\": \"Rekening diblokir otomatis\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Penutupan rekening mengikuti kewenangan cabang pengelola.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"cabang pengelola\", \"prosedur\", \"otorisasi\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 61,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Monitoring AML\","
+  },
+  {
+    "{": "\"question\": \"Nasabah mengirim uang berulang ke negara berisiko tinggi tanpa penjelasan logis.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Aktivitas biasa perdagangan internasional\","
+  },
+  {
+    "{": "\"B\": \"Perlu peningkatan monitoring dan analisis transaksi\","
+  },
+  {
+    "{": "\"C\": \"Tidak perlu dicatat selama saldo cukup\","
+  },
+  {
+    "{": "\"D\": \"Langsung dianggap fraud internal\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Transfer ke negara berisiko tinggi memerlukan monitoring tambahan.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"monitoring\", \"negara berisiko\", \"AML\", \"analisis transaksi\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 62,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Onboarding KYC\","
+  },
+  {
+    "{": "\"question\": \"Saat onboarding, nasabah menolak memberikan informasi tujuan pembukaan rekening.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap diproses karena identitas sudah ada\","
+  },
+  {
+    "{": "\"B\": \"Bank perlu meminta informasi minimum sesuai KYC\","
+  },
+  {
+    "{": "\"C\": \"CIF dapat dibuat kosong sementara\","
+  },
+  {
+    "{": "\"D\": \"Data tujuan transaksi tidak relevan\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Informasi tujuan hubungan usaha merupakan bagian mandatory KYC.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"KYC\", \"informasi minimum\", \"tujuan hubungan usaha\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 63,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Kredit Konsumtif\","
+  },
+  {
+    "{": "\"question\": \"Nasabah ingin membuka rekening kredit konsumtif tetapi slip gaji dan rekening koran tidak tersedia.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap approval berdasarkan wawancara saja\","
+  },
+  {
+    "{": "\"B\": \"Dokumen penghasilan perlu dipenuhi untuk analisis kredit\","
+  },
+  {
+    "{": "\"C\": \"Diganti menjadi deposito\","
+  },
+  {
+    "{": "\"D\": \"Kredit diproses tanpa analisis\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Dokumen penghasilan diperlukan untuk menilai kemampuan bayar.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"penghasilan\", \"analisis kredit\", \"kemampuan bayar\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 64,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Dokumen Identitas\","
+  },
+  {
+    "{": "\"question\": \"CS menemukan dokumen identitas nasabah sudah kedaluwarsa.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap digunakan selama fotonya jelas\","
+  },
+  {
+    "{": "\"B\": \"Meminta dokumen valid yang masih berlaku\","
+  },
+  {
+    "{": "\"C\": \"Menggunakan data lama tanpa update\","
+  },
+  {
+    "{": "\"D\": \"Menghapus proses onboarding\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Dokumen identitas wajib valid dan masih berlaku.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"dokumen valid\", \"identitas\", \"verifikasi\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 65,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Red Flags\","
+  },
+  {
+    "{": "\"question\": \"Nasabah melakukan transaksi tunai besar berulang tanpa pola bisnis yang jelas.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Indikasi red flag yang perlu pemantauan\","
+  },
+  {
+    "{": "\"B\": \"Aktivitas pasti legal karena tunai\","
+  },
+  {
+    "{": "\"C\": \"Bukti loyalitas nasabah\","
+  },
+  {
+    "{": "\"D\": \"Tidak perlu dicatat\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Transaksi tunai besar berulang tanpa pola jelas merupakan red flag AML.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"red flag\", \"AML\", \"transaksi tunai\", \"monitoring\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 66,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Legalitas Usaha\","
+  },
+  {
+    "{": "\"question\": \"Nasabah meminta pembukaan rekening atas nama perusahaan, tetapi izin usaha tidak dapat ditunjukkan.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Rekening dapat dibuka sementara\","
+  },
+  {
+    "{": "\"B\": \"Legalitas usaha perlu diverifikasi terlebih dahulu\","
+  },
+  {
+    "{": "\"C\": \"Cukup menggunakan kartu nama perusahaan\","
+  },
+  {
+    "{": "\"D\": \"CIF perusahaan tetap dibuat final\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Legalitas usaha wajib diverifikasi sebelum onboarding perusahaan.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"legalitas\", \"izin usaha\", \"verifikasi\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 67,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Update CIF\","
+  },
+  {
+    "{": "\"question\": \"Saat pengisian CIF, alamat domisili nasabah ternyata sudah berubah sejak dua tahun lalu.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap gunakan alamat lama agar konsisten\","
+  },
+  {
+    "{": "\"B\": \"Update data terbaru sesuai kondisi aktual\","
+  },
+  {
+    "{": "\"C\": \"Menunggu audit tahunan\","
+  },
+  {
+    "{": "\"D\": \"Menghapus CIF lama\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Data CIF harus selalu akurat dan terkini.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"update CIF\", \"akurasi data\", \"data terkini\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 68,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Structuring\","
+  },
+  {
+    "{": "\"question\": \"Nasabah meminta agar beberapa transaksi dipecah menjadi nominal kecil agar tidak diperiksa.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Strategi efisiensi transaksi\","
+  },
+  {
+    "{": "\"B\": \"Indikasi upaya menghindari threshold pelaporan\","
+  },
+  {
+    "{": "\"C\": \"Aktivitas normal payroll\","
+  },
+  {
+    "{": "\"D\": \"Metode treasury management\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Pemecahan transaksi untuk menghindari pelaporan termasuk structuring/smurfing.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"structuring\", \"smurfing\", \"threshold\", \"AML\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 69,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Penyelesaian Dana\","
+  },
+  {
+    "{": "\"question\": \"Dalam penutupan rekening, masih terdapat sisa dana di rekening nasabah.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Dana dihapus otomatis\","
+  },
+  {
+    "{": "\"B\": \"Bank perlu menyelesaikan dana sisa sesuai prosedur\","
+  },
+  {
+    "{": "\"C\": \"Dana menjadi pendapatan bank\","
+  },
+  {
+    "{": "\"D\": \"Rekening langsung dormant\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Dana sisa wajib diselesaikan sesuai prosedur penutupan rekening.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"dana sisa\", \"prosedur\", \"penutupan rekening\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 70,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"CIF\","
+  },
+  {
+    "{": "\"question\": \"Nasabah memiliki beberapa produk: tabungan, giro, deposito, dan kredit. Bank tetap menggunakan satu CIF.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Karena CIF berfungsi sebagai identitas utama terintegrasi\","
+  },
+  {
+    "{": "\"B\": \"Karena sistem bank tidak mampu membuat CIF baru\","
+  },
+  {
+    "{": "\"C\": \"Karena CIF hanya digunakan untuk tabungan\","
+  },
+  {
+    "{": "\"D\": \"Karena regulator melarang banyak rekening\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Satu CIF digunakan untuk mengintegrasikan seluruh produk nasabah.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"CIF\", \"integrasi\", \"identitas utama\", \"produk nasabah\"]"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "]"
+  },
+  {
+    "{": ""
+  },
+  {
+    "{": "}"
+  }
+]
